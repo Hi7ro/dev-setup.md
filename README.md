@@ -1,11 +1,12 @@
-# Dev Setup
+# Dev Setup for Mac
 
 1. Homebrew/terminal/bash
-1. OSX Productivity - Window Management/Quick Launcher/Hyperswitch
-1. OSX Settings - Dock/Finder
-1. Web Browser - Extensions - AdBlock, Privacy Badger, OneTab, JSONViewer, Stylus, Vue Devtools, React Devtools 
-1. Node.js - nvm
-1. Code Editor - vs code
-1. Code Editor Extensions
-1. Break timer and Flux
+2. OSX Productivity - Window Management/Quick Launcher/Hyperswitch/BetterSnapTool
+3. OSX Settings - Dock/Finder
+4. OSX Extensions - Lulu, Protonmail
+5. Web Browser - Extensions - AdBlock, Privacy Badger, JSONViewer, Vue Devtools 
+6. Node.js - nvm
+7. Code Editor - vs code
+8. Code Editor Extensions
+9. Break timer and Flux
 
