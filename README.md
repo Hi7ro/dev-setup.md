@@ -1,10 +1,10 @@
 # Dev Setup for Mac
 
-1. Homebrew/terminal/bash
+1. Homebrew/terminal/zsh
 2. OSX Productivity - Window Management/Quick Launcher/BetterSnapTool
 3. OSX Settings - Dock/Finder
-4. OSX Extensions - Little Snitch, Protonmail, Istat
-5. Web Browser - Extensions - AdBlock, Privacy Badger, Vue Devtools, Tabliss, KeepassXC 
+4. OSX Extensions - Protonmail, stats
+5. Web Browser - Extensions - AdBlock, Privacy Badger, Tabliss, KeepassXC 
 6. Node.js - nvm
 7. Code Editor - vs code
 8. Code Editor Extensions
