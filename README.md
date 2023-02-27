@@ -4,8 +4,9 @@
 2. OSX Productivity - Window Management/Quick Launcher/BetterSnapTool
 3. OSX Settings - Dock/Finder
 4. OSX Extensions - Protonmail, stats
-5. Web Browser - Extensions - AdBlock, Privacy Badger, Tabliss, KeepassXC 
-6. Node.js - nvm
-7. Code Editor - vs code
-8. Code Editor Extensions
+5. Web Browser - Extensions - AdBlock, Privacy Badger, Tabliss, Cookie Auto Delete 
+6. KeepassXC 
+7. Node.js - nvm
+8. Code Editor - vs code
+9. Code Editor Extensions
 
