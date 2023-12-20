@@ -7,6 +7,6 @@
 5. Web Browser - Extensions - AdBlock, Privacy Badger, Tabliss, Cookie Auto Delete 
 6. KeepassXC 
 7. Node.js - nvm
-8. Code Editor - vs code
+8. Code Editor - vs code && intellij
 9. Code Editor Extensions
 
